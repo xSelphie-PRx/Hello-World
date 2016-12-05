@@ -1,4 +1,4 @@
 # Hello-World
-# My first hello world
+# First hello world
 # Tutorial Branch
 # 2nd Try
